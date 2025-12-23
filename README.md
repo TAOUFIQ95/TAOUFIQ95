@@ -1,11 +1,9 @@
-# Hi there 👋 I'm SOUFIANE TAOUFIQ
-
 <!-- Profile header image: place the image at `assets/profile-header.png` in the repository -->
 <p align="center">
   <img src="github-header-banner.png" alt="Profile header image" style="max-width:100%; border-radius:8px;">
 </p>
 
-Hi! I'm TAOUFIQ — a software developer who loves building clean, maintainable apps and learning new technologies. I contribute to open-source, build full-stack projects, and enjoy sharing what I lea[...]
+A passioned software developer who loves building clean, maintainable apps and learning new technologies. I contribute to open-source, build full-stack projects, and enjoy sharing what I lea[...]
 
 - 🔭 I’m currently working on: patient-management (contributor)
 - 🌱 I’m currently learning: Advanced backend patterns, DDD, and cloud deployments
