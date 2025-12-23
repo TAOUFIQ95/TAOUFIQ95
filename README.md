@@ -2,7 +2,7 @@
 
 <!-- Profile header image: place the image at `assets/profile-header.png` in the repository -->
 <p align="center">
-  <img src="assets/profile-header.png" alt="Profile header image" style="max-width:100%; border-radius:8px;">
+  <img src="github-header-banner.png" alt="Profile header image" style="max-width:100%; border-radius:8px;">
 </p>
 
 Hi! I'm TAOUFIQ — a software developer who loves building clean, maintainable apps and learning new technologies. I contribute to open-source, build full-stack projects, and enjoy sharing what I lea[...]
